@@ -1,0 +1,4 @@
+kmeans_cluster,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+0,0.664,0.467,-13.364,0.83,0.586,0.001,0.436,0.584,100.389,97520.59
+1,0.486,0.311,-13.205,0.06,0.749,0.169,0.182,0.413,111.94,223457.064
+2,0.627,0.694,-7.606,0.075,0.258,0.051,0.2,0.666,124.911,226592.053
